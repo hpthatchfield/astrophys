@@ -15,7 +15,7 @@ import aplpy
 
 
 # Image information and assumptions
-distance        = 8150. # distance to GC; Reid et al. 2014
+distance        = 8178. # distance to GC; GRAVITY collaboration 2019
 #Temp            = 20.0
 Wave            = (3.0e8/226.0e9)
 Wave0           = 1.3e-3
